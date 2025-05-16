@@ -135,6 +135,6 @@ fs.watch(resultsDir, (eventType, filename) => {
   }
 });
 
-app.listen(port, () => {
+app.listen(3000, '0.0.0.0',() => {
     console.log(`서버가 http://localhost:${port} 에서 실행 중입니다.`);
 }); 
