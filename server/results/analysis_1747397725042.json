@@ -1,0 +1,13 @@
+{
+  "Left": {
+    "bank": "Shinhan Bank",
+    "account_number": "123-4567893-01-223",
+    "name": "Choi Seoyoung",
+    "amount": "20000"
+  },
+  "Right": {
+    "bank": "Kookmin Bank",
+    "account_number": "124-7892-33-4475",
+    "name": "Park Minseo"
+  }
+}

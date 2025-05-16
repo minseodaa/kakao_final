@@ -1,0 +1,13 @@
+{
+  "Left": {
+    "bank": "Kookmin Bank",
+    "account_number": "123-456789-01-001",
+    "name": "Kim Minji",
+    "amount": "10000"
+  },
+  "Right": {
+    "bank": "Shinhan Bank",
+    "account_number": "124-17892-33-4445",
+    "name": "Kim Jisoo"
+  }
+}
